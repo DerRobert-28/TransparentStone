@@ -40,8 +40,7 @@ git clone https://github.com/DerRobert-28/TransparentStone.git
 
 * If you changed the default data path of Minecraft, you need to replace the path above by your custom one.
   
-----
-
+<br>
 <br>
 
 *© 2023 by Der Robert*
