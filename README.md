@@ -8,4 +8,30 @@ Compatibility ends in versions, where textures are still stitched together insid
 
 <br>
 
+## Windows installation:
+
+```
+cd %appdata%\.minecraft\resourcepacks
+
+git clone https://github.com/DerRobert-28/TransparentStone.git
+```
+
+<br>
+
+## Linux installation:
+
+```
+cd ~\.minecraft\resourcepacks
+
+git clone https://github.com/DerRobert-28/TransparentStone.git
+```
+
+<br>
+
+## Please note:
+
+* If you changed the default data path of Minecraft, you need to replace the path above by your custom one.
+  
+----
+
 *© 2023 by Der Robert*
