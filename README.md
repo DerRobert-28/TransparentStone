@@ -34,4 +34,6 @@ git clone https://github.com/DerRobert-28/TransparentStone.git
   
 ----
 
+<br>
+
 *© 2023 by Der Robert*
