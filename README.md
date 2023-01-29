@@ -6,9 +6,9 @@
 
 ## Features:
 
-- This resource pack makes the Minecraft stone block transparent.
+- This resource pack makes the stone block transparent.
 
-- It should be compatible to the most Minecraft versions.
+- It should be compatible to the most Minecraft JE versions.
 
 - Compatibility ends in versions, where textures are still stitched together inside the `textures.png` file.
 
